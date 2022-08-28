@@ -8,7 +8,7 @@
 
 ---
 
-### [View Demo](https://arq-gabo.github.io/markdown-previewer/)
+### [View Demo](https://codepen.io/arq-gabo/pen/dydEWPB
 
 ---
 
@@ -28,7 +28,7 @@
 - This project run starting using `npx create-react-app random-quote-machine`
 - This project was stiling using bootstrap v5
 - The state of the components we manage state from parents to chidren
-- This project was deploy using Firebase hosting
+- This project was copy and paste the build files in codepen.io
 
 ---
 
