@@ -8,7 +8,7 @@
 
 ---
 
-### [View Demo](https://codepen.io/arq-gabo/pen/dydEWPB
+### [View Demo](https://codepen.io/arq-gabo/pen/dydEWPB)
 
 ---
 
