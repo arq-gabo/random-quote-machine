@@ -4,7 +4,7 @@
 
 ---
 
-###with this project starting the certification in the development of user interfaces with react in free code camp
+### with this project starting the certification in the development of user interfaces with react in free code camp
 
 ---
 
